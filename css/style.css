@@ -455,6 +455,9 @@ a {
   justify-content: center;
   padding-bottom: 34px;
 }
+.button-nav {
+  margin-top: 93px;
+}
 .but-link {
   font-style: normal;
   font-weight: 500;
