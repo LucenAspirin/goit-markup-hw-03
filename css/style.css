@@ -34,10 +34,7 @@ a {
 }
 
 /* навигация */
-/* .head-nav {
-  width: 1600px;
-  height: 80px;
-} */
+
 .main-nav {
   height: 80px;
   display: flex;
