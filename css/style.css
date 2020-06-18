@@ -247,11 +247,7 @@ a {
   width: 1170px;
   padding-top: 50px;
 
-  /* padding-top: 168px;
-  padding-left: 215px;
-  padding-bottom: 94px;
-  padding-right: 215px; */
-}
+ 
 /* заголовок с падингом */
 .our-team {
   padding-top: 94px;
@@ -307,8 +303,7 @@ a {
   box-sizing: border-box;
   border-radius: 4px;
 }
-.company {
-}
+
 .customers .customer-list + .customer-list {
   margin-left: 30px;
 }
